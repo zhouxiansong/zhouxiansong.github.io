@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 哈哈的博客
+email: 1179183191@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  哈哈的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://ruiyole.cn # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Ha Ha
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -31,7 +31,7 @@ favicon: http://imgs.yansu.org/site-favicon.ico
 # google analytics config
 # ga:
 #  id: UA-54767140-1
-#  url: yansu.org
+#  url: 
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
