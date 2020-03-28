@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://yansu.org](http://yansu.org)
+地址：[http://ruiyole.cn](感谢http://yansu.org)
 
 ### 安装说明
 
