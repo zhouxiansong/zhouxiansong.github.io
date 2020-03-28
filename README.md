@@ -8,7 +8,8 @@
 2. 修改名字为：`username.github.io`
 3. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
 4. 库需新建CNAME，文件内写上域名ruiyole.cn，或者删掉这个文件，使用默认域名
-5. 修改`_config.yml`配置项
+5. 云解析，添加CNAMN记录就可以了。添加www和@两条记录值都是填写仓库名（zhouxiansong.github.io）
+5. 修改`_config.yml`配置项url
 6. It's done!
 
 ### 分支说明
